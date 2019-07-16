@@ -33,7 +33,7 @@ dependencies = [
 name = "bootimage"
 version = "0.7.2"
 dependencies = [
- "cargo_metadata 0.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "cargo_metadata 0.8.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "json 0.11.13 (registry+https://github.com/rust-lang/crates.io-index)",
  "llvm-tools 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "locate-cargo-manifest 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -44,7 +44,7 @@ dependencies = [
 
 [[package]]
 name = "cargo_metadata"
-version = "0.8.0"
+version = "0.8.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "failure 0.1.5 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -327,7 +327,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 "checksum arrayvec 0.4.7 (registry+https://github.com/rust-lang/crates.io-index)" = "a1e964f9e24d588183fcb43503abda40d288c8657dfc27311516ce2f05675aef"
 "checksum backtrace 0.3.12 (registry+https://github.com/rust-lang/crates.io-index)" = "a2eff3830839471718ef8522b9025b399bfb713e25bc220da721364efb660d7d"
 "checksum backtrace-sys 0.1.28 (registry+https://github.com/rust-lang/crates.io-index)" = "797c830ac25ccc92a7f8a7b9862bde440715531514594a6154e3d4a54dd769b6"
-"checksum cargo_metadata 0.8.0 (registry+https://github.com/rust-lang/crates.io-index)" = "929766d993a2fde7a0ae962ee82429069cd7b68839cd9375b98efd719df65d3a"
+"checksum cargo_metadata 0.8.1 (registry+https://github.com/rust-lang/crates.io-index)" = "5e904f164f39cae0c3a4f2713eb97a47ba64676a071e99a69ddfef4994694d2c"
 "checksum cc 1.0.37 (registry+https://github.com/rust-lang/crates.io-index)" = "39f75544d7bbaf57560d2168f28fd649ff9c76153874db88bdbdfd839b1a7e7d"
 "checksum cfg-if 0.1.4 (registry+https://github.com/rust-lang/crates.io-index)" = "efe5c877e17a9c717a0bf3613b2709f723202c4e4675cc8f12926ded29bcb17e"
 "checksum crossbeam-deque 0.2.0 (registry+https://github.com/rust-lang/crates.io-index)" = "f739f8c5363aca78cfb059edf753d8f0d36908c348f3d8d1503f03d8b75d9cf3"
