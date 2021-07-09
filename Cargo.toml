@@ -16,5 +16,5 @@ locate-cargo-manifest = "0.1.0"
 json = "0.11.13"
 
 [dependencies.cargo_metadata]
-version = "0.8.0"
+version = "0.14.0"
 default-features = false
